@@ -1,0 +1,31 @@
+h1 {
+  color: #00f;
+  text-shadow: #00a;
+}
+
+h2 {
+  color: #50000f;
+  font-style: italic;
+  text-align: center;
+}
+
+h3{
+  font-weight: inherit;
+}
+
+p {
+  font-family: arial;
+  font-size: 25px;
+}
+
+ul{
+  font-family: monospace;
+  font-size: 20px;
+  line-height: 35px;
+  font-style: normal;
+}
+ol{
+  font-weight: lighter;
+  line-height: 20px;
+  text-align: center;
+}
