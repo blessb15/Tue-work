@@ -1,0 +1,23 @@
+h1 {
+  color: #ffb366;
+  text-shadow:2px 2px 5px #000000;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-size: 25px;
+  text-align: center;
+}
+
+ul{
+  font-family: monospace;
+  font-size: 20px;
+  line-height: 35px;
+  font-style: normal;
+}
+ol{
+  font-weight: lighter;
+  line-height: 20px;
+  text-align: center;
+}
